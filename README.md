@@ -4,6 +4,8 @@
  Website F-Mail
 </h1>
 
+<p> Website sederhana yang mengaplikasikan CRUD data surat masuk yaitu nomor surat, tanggal surat dan pengirim, menggunakan database Postgres </p>
+
 # 🚀 Lihat Website nya di sini gaes...:
 https://f-mail.herokuapp.com
 
