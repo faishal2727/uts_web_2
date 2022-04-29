@@ -1,3 +1,3 @@
 # uts_web_2
 
-![Dino](https://raw.githubusercontent.com/muhfaishalrizal/uts_web_2/master/UseCase CRUD Surat Masuk.jpg)
+![Dino](https://raw.githubusercontent.com/muhfaishalrizal/uts_web_2/master/Gambar2.jpg)
